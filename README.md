@@ -1,5 +1,4 @@
-# Title
-README File Generator
+# README File Generator
 
 ![badge](https://img.shields.io/static/v1?label=license&message=MIT&color=blue)
 ## Description

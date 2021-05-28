@@ -73,8 +73,7 @@ const createFile = ({
   github,
   email,
 }) =>
-  `# Title
-${title}
+  `# ${title}
 
 ![badge](https://img.shields.io/static/v1?label=license&message=${license}&color=blue)
 ## Description
